@@ -1,3 +1,4 @@
+
 # Deprecation Warning
 
 This project was started at the advent of the Redux ecosystem, and was intended to help users get up and running quickly. Since then, tooling and best practices have evolved tremendously. In order to get the most modern experience possible, I recommend checking out something like [create-react-app](https://github.com/facebookincubator/create-react-app) which is supported by many core React and Redux developers.
@@ -20,19 +21,24 @@ The primary goal of this project is to provide a stable foundation upon which to
 Finally, This project wouldn't be possible without the help of our many contributors. What you see today is the product of hundreds changes made to keep up with an ever-evolving ecosystem. [Thank you](#thank-you) for all of your help.
 
 ## Table of Contents
-1. [Requirements](#requirements)
-1. [Installation](#getting-started)
-1. [Running the Project](#running-the-project)
-1. [Project Structure](#project-structure)
-1. [Live Development](#local-development)
-    * [Hot Reloading](#hot-reloading)
-    * [Redux DevTools](#redux-devtools)
-1. [Routing](#routing)
-1. [Testing](#testing)
-    * [dirty-chai](#dirty-chai)
-1. [Building for Production](#building-for-production)
-1. [Deployment](#deployment)
-1. [Thank You](#thank-you)
+- [Deprecation Warning](#deprecation-warning)
+- [React Redux Starter Kit](#react-redux-starter-kit)
+  - [Table of Contents](#table-of-contents)
+  - [Requirements](#requirements)
+  - [Installation](#installation)
+  - [Running the Project](#running-the-project)
+  - [Project Structure](#project-structure)
+  - [Live Development](#live-development)
+    - [Hot Reloading](#hot-reloading)
+    - [Redux DevTools](#redux-devtools)
+  - [Routing](#routing)
+  - [Testing](#testing)
+    - [dirty-chai](#dirty-chai)
+  - [Building for Production](#building-for-production)
+  - [Deployment](#deployment)
+    - [Static Deployments](#static-deployments)
+  - [Thank You](#thank-you)
+- [fun_react](#funreact)
 
 ## Requirements
 * node `^5.0.0`
@@ -179,3 +185,6 @@ This project wouldn't be possible without help from the community, so I'd like t
 * [Jonas Matser](https://github.com/mtsr) - For your help in triaging issues and unending support in our Gitter channel.
 
 And to everyone else who has contributed, even if you are not listed here your work is appreciated.
+
+# fun_react
+react play
